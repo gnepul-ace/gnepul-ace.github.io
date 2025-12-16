@@ -28,20 +28,9 @@ I am a PhD candidate advised by Prof. Philippe Langlais. My research spans effic
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- `NeurIPS 2025` [Mamba Modulation: On the Length Generalization of Mamba Models](https://openreview.net/forum?id=QEU047bE8p), **Peng LU**, Jerry Huang, QIUHAO Zeng, Xinyu Wang, Boxing Chen, Philippe Langlais, Yufei Cui
 
-[Mamba Modulation: On the Length Generalization of Mamba Models](https://openreview.net/forum?id=QEU047bE8p) \\
-
-**Peng LU**, Jerry Huang, QIUHAO Zeng, Xinyu Wang, Boxing Chen, Philippe Langlais, Yufei Cui
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Calibrated Language Models and How to Find Them with Label Smoothing](https://openreview.net/forum?id=soLNj4l2EL&noteId=WWlemT7i5q) \\
-
-**Peng LU**, Jerry Huang, QIUHAO Zeng
-
+- `ICML 2025` [Calibrated Language Models and How to Find Them with Label Smoothing](https://openreview.net/forum?id=soLNj4l2EL&noteId=WWlemT7i5q), **Peng LU**, Jerry Huang, QIUHAO Zeng
 
 
 
