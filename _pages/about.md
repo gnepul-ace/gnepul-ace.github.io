@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate advised by Prof. Philippe Langlais. My research spans efficient architectures for LLMs, LLM calibration and reliability, Length Generalization.
+I am a PhD candidate advised by Prof. Philippe Langlais. My research spans efficient architectures for LLMs, LLM calibration and reliability, and Length Generalization.
 
 
 # 🔥 News
@@ -31,9 +31,10 @@ I am a PhD candidate advised by Prof. Philippe Langlais. My research spans effic
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Mamba Modulation: On the Length Generalization of Mamba Models]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://openreview.net/forum?id=QEU047bE8p))
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Peng LU**, Jerry Huang, QIUHAO Zeng, Xinyu Wang, Boxing Chen, Philippe Langlais, Yufei Cui
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
