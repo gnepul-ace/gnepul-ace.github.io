@@ -23,10 +23,10 @@ I am a PhD candidate advised by Prof. Philippe Langlais. My research spans effic
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
 - *2025.07*: &nbsp;🎉🎉 Two papers are accepted by ECAI 2025.
-- *2025.07*: &nbsp;🎉🎉 One paper is accepted by COLM2025. 
-- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML2025.
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by ICLR2025.
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted by NAACL2025.
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted by COLM 2025. 
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2025.
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by NAACL 2025.
 
 
 # 📝 Selected Publications 
