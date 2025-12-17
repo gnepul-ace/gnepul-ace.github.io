@@ -44,7 +44,21 @@ I am a PhD candidate advised by Prof. Philippe Langlais. My research spans effic
 
 - `NAACL 2025` [ReGLA: Refining Gated Linear Attention](https://aclanthology.org/2025.naacl-long.147/), **Peng Lu**, Ivan Kobyzev, Mehdi Rezagholizadeh, Boxing Chen, Philippe Langlais
 - `CIMK 2025 industry track` [FinSage: A Multi-aspect RAG System for Financial Filings Question Answering](https://dl.acm.org/doi/10.1145/3746252.3761587), Xinyu Wang, Jijun Chi, Zhenghan Tai, Tung Sum Thomas Kwok, Muzhi Li, Zhuhong Li, Hailin He, Yuchen Hua, **Peng Lu** et al.
-  
+
+- `EMNLP 2024 Findings` [Draft on the fly: Adaptive self-speculative decoding using cosine similarity](https://aclanthology.org/2024.findings-emnlp.124/), Michael R. Metel, **Peng Lu**, Boxing Chen, Mehdi Rezagholizadeh, and Ivan Kobyzev
+
+- `ACL 2024 Findings` [Resonance RoPE: Improving context length generalization of large language models](https://aclanthology.org/2024.findings-acl.32/), Suyuchen Wang, Ivan Kobyzev, **Peng Lu**, Mehdi Rezagholizadeh, and Bang Liu
+
+- `ACL 2023 Findings` [LABO:
+Towards learning optimal label regularization via bi-level optimization](https://aclanthology.org/2023.findings-acl.356/), **Peng Lu**, Ahmad Rashid, Ivan Kobyzev, Mehdi Rezagholizadeh, and Phillippe Langlais
+
+- `EMNLP 2023` [Efficient classification
+of long documents via state-space models](https://aclanthology.org/2023.emnlp-main.404/), **Peng Lu**, Suyuchen Wang, Mehdi Rezagholizadeh, Bang Liu, and Ivan Kobyzev
+
+- `EMNLP 2022 Findings` [Improving generalization of pre-trained language models via stochastic weight averaging](https://aclanthology.org/2022.findings-emnlp.363/), **Peng Lu**, Ivan Kobyzev, Mehdi Rezagholizadeh, Ahmad Rashid, Ali Ghodsi, and Phillippe Langlais
+- `EMNLP 2021 Findings` [RW-KD: Sample-wise loss terms re-weighting for knowledge distillation](https://aclanthology.org/2025.naacl-long.147/), **Peng Lu**, Abbas Ghaddar, Ahmad Rashid, Mehdi Rezagholizadeh, Ali Ghodsi, and Philippe Langlais
+
+- `NAACL 2019` [SC-LSTM: Learning task-specific representations in multi-task learning for sequence labeling](https://aclanthology.org/N19-1249/), **Peng Lu**, Ting Bai, and Philippe Langlais
 
 
 # 💻 Internships
