@@ -55,7 +55,7 @@ Towards learning optimal label regularization via bi-level optimization](https:/
 of long documents via state-space models](https://aclanthology.org/2023.emnlp-main.404/), **Peng Lu**, Suyuchen Wang, Mehdi Rezagholizadeh, Bang Liu, and Ivan Kobyzev
 
 - `EMNLP 2022 Findings` [Improving generalization of pre-trained language models via stochastic weight averaging](https://aclanthology.org/2022.findings-emnlp.363/), **Peng Lu**, Ivan Kobyzev, Mehdi Rezagholizadeh, Ahmad Rashid, Ali Ghodsi, and Phillippe Langlais
-- `EMNLP 2021 Findings` [RW-KD: Sample-wise loss terms re-weighting for knowledge distillation](https://aclanthology.org/2025.naacl-long.147/), **Peng Lu**, Abbas Ghaddar, Ahmad Rashid, Mehdi Rezagholizadeh, Ali Ghodsi, and Philippe Langlais
+- `EMNLP 2021 Findings` [RW-KD: Sample-wise loss terms re-weighting for knowledge distillation](https://aclanthology.org/2021.findings-emnlp.270/), **Peng Lu**, Abbas Ghaddar, Ahmad Rashid, Mehdi Rezagholizadeh, Ali Ghodsi, and Philippe Langlais
 
 - `NAACL 2019` [SC-LSTM: Learning task-specific representations in multi-task learning for sequence labeling](https://aclanthology.org/N19-1249/), **Peng Lu**, Ting Bai, and Philippe Langlais
 
