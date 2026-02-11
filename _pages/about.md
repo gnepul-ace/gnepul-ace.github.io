@@ -34,11 +34,11 @@ I am a PhD candidate advised by Prof. Philippe Langlais. My research spans effic
 
 - `ICML 2025` [Calibrated Language Models and How to Find Them with Label Smoothing](https://openreview.net/forum?id=soLNj4l2EL&noteId=WWlemT7i5q), **Peng LU**, Jerry Huang, QIUHAO Zeng
 
-- `COLM 2025` [Resona: Improving Context Copying in Linear Recurrence Models with Retrieval](https://openreview.net/forum?id=soLNj4l2EL&noteId=WWlemT7i5q), Xinyu Wang, Linrui Ma, Jerry Huang, **Peng Lu**, Prasanna Parthasarathi, Xiao-Wen Chang, Boxing Chen, Yufei Cui
+- `COLM 2025` [Resona: Improving Context Copying in Linear Recurrence Models with Retrieval](https://openreview.net/forum?id=4mxQmpnawk), Xinyu Wang, Linrui Ma, Jerry Huang, **Peng Lu**, Prasanna Parthasarathi, Xiao-Wen Chang, Boxing Chen, Yufei Cui
 
 - `ECAI 2025` [An Interpretable Quantum-Inspired Model for Multi-Task Natural Language Understanding](https://ebooks.iospress.nl/volumearticle/75874), **Peng Lu**, Jerry Huang, Xinyu Wang, Philippe Langlais
 
-- `ECAI 2025` [PoT-PTQ: Two-Step Power-of-Two Post-Training for LLMs](https://ebooks.iospress.nl/volumearticle/76142), Xinyu Wang, Vahid Partovi Nia, **Peng Lu**, Jerry Huang, Xiao-Wen Chang, Boxing Chen, Yufei Cui
+- `ECAI 2025` [PoT-PTQ: Two-Step Power-of-Two Post-Training for LLMs](https://ebooks.iospress.nl/volumearticle/76124), Xinyu Wang, Vahid Partovi Nia, **Peng Lu**, Jerry Huang, Xiao-Wen Chang, Boxing Chen, Yufei Cui
 - `ICLR 2025` [ZETA: Leveraging Z-order Curves for Efficient Top-k Attention](https://openreview.net/forum?id=hXRrOZdaWK), Qiuhao Zeng, Jerry Huang, **Peng Lu**, Gezheng Xu, Boxing Chen, Charles Ling, Boyu Wang
 
 - `NAACL 2025` [ReGLA: Refining Gated Linear Attention](https://aclanthology.org/2025.naacl-long.147/), **Peng Lu**, Ivan Kobyzev, Mehdi Rezagholizadeh, Boxing Chen, Philippe Langlais
