@@ -42,7 +42,7 @@ I am a PhD candidate advised by Prof. Philippe Langlais. My research spans effic
 - `ICLR 2025` [ZETA: Leveraging Z-order Curves for Efficient Top-k Attention](https://openreview.net/forum?id=j9VVzueEbG), Qiuhao Zeng, Jerry Huang, **Peng Lu**, Gezheng Xu, Boxing Chen, Charles Ling, Boyu Wang
 
 - `NAACL 2025` [ReGLA: Refining Gated Linear Attention](https://aclanthology.org/2025.naacl-long.147/), **Peng Lu**, Ivan Kobyzev, Mehdi Rezagholizadeh, Boxing Chen, Philippe Langlais
-- `CIMK 2025 industry track` [FinSage: A Multi-aspect RAG System for Financial Filings Question Answering](https://dl.acm.org/doi/10.1145/3746252.3761587), Xinyu Wang, Jijun Chi, Zhenghan Tai, Tung Sum Thomas Kwok, Muzhi Li, Zhuhong Li, Hailin He, Yuchen Hua, **Peng Lu** et al.
+- `CIKM 2025 industry track` [FinSage: A Multi-aspect RAG System for Financial Filings Question Answering](https://dl.acm.org/doi/10.1145/3746252.3761587), Xinyu Wang, Jijun Chi, Zhenghan Tai, Tung Sum Thomas Kwok, Muzhi Li, Zhuhong Li, Hailin He, Yuchen Hua, **Peng Lu** et al.
 
 - `EMNLP 2024 Findings` [Draft on the fly: Adaptive self-speculative decoding using cosine similarity](https://aclanthology.org/2024.findings-emnlp.124/), Michael R. Metel, **Peng Lu**, Boxing Chen, Mehdi Rezagholizadeh, and Ivan Kobyzev
 
