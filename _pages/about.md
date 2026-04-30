@@ -21,6 +21,7 @@ I am a PhD candidate advised by Prof. Philippe Langlais. My research spans effic
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 Two papers are accepted by IJCAI 2026.
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by ICML 2026.
 - *2026.04*: &nbsp;🎉🎉 Three papers are accepted by ACL 2026 (main x2, Findings x1).
 - *2026.01*: &nbsp;🎉🎉 Two papers are accepted by WWW 2026 industry track.
